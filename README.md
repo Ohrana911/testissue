@@ -67,7 +67,7 @@ curl http://127.0.0.1:8000/sensors/room-01-temperature/latest
 
 ## Time spent
 
-About 4 hours.
+About 4 hours. Possible improvements: a limit on the number of stored readings. Memory grows with every accepted event, and persistent storage.
 
 ## AI usage
 
